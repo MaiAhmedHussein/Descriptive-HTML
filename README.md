@@ -32,10 +32,15 @@ The grammer of the language:
 
 
 ## Example: 
+
 ADD IMAGE WITH SOURCE "http://photos.wikimapia.org/p/00/00/78/91/00_big.jpg"
-ADDHEADING WITH TEXT "Faculty of Engineering"
+
+ADD HEADING WITH TEXT "Faculty of Engineering"
+
 ADD PARAGRAPH WITH TEXT "Welcome to Our College!!" AND WITH FONT "Helvetica" AND WITH COLOR "Magenta"
+
 ADD LINK WITH TEXT "Ibn EL Haitham" AND WITH LINK "https://alexu.mans.edu.eg/static/index.html" WITH FONT "Arial" AND WITH COLOR "Red"
+
 EXIT
 
 ## OutPut:
